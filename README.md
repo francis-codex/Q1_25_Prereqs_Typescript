@@ -104,5 +104,5 @@ The IDL defines the program's interface, including:
 If you encounter issues:
 1. Ensure you're connected to Solana devnet
 2. Verify your wallet files are correctly formatted
-3. Check that you have sufficient SOL for transactions
+3. Please make sure you check that you have sufficient SOL for transactions
 4. Verify your GitHub account name is correctly entered for enrollment
