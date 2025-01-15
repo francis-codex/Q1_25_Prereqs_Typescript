@@ -1,7 +1,6 @@
 # Solana Airdrop and Enrollment Project
 
-This project demonstrates basic Solana wallet operations including creating a keypair, requesting an airdrop, and transferring SOL on Solana's devnet. It culminates in enrolling in the Turbin3 prerequisite program using the Anchor framework.
-
+This project demonstrates basic Solana wallet operations including creating a keypair, requesting an airdrop, and transferring SOL on Solana's devnet. It culminates in enrolling in the Turbin3 prerequisite program using Typescript.
 ## Prerequisites
 
 - Node.js
